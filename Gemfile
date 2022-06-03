@@ -7,7 +7,7 @@ ruby "3.1.2"
 gem 'rails', '~> 6.1.3', '>= 6.1.3.2'
 # Use postgresql as the database for Active Record
 gem 'pg'
-gem 'puma', '~> 5.0'
+gem 'puma'
 gem 'net-smtp', require: false# Use Puma as the app server
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.7'
